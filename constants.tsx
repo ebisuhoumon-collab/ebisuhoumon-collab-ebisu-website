@@ -448,7 +448,7 @@ export const SYMPTOMS: Symptom[] = [
     description: '自己負担0円。佐世保での事故後の怪我やむち打ちの専門治療から、保険会社との交渉・示談までトータルサポートします。',
     bodyPart: BodyPart.OTHER,
     icon: Car,
-    imageUrl: 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://github.com/ebisuhoumon-collab/ebisuhoumon-collab-ebisu-website/blob/main/koutujiko.jpg.jpg?raw=true',
     detailedTitle: '交通事故治療専門クリニック',
     mainSymptomsList: [
       '首・肩・腰の痛み',

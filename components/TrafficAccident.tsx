@@ -41,7 +41,7 @@ export const TrafficAccident: React.FC<TrafficAccidentProps> = ({ isOpen, onClos
           {/* 1. Hero Section (Overwhelming Impact) */}
           <section className="relative min-h-[60vh] md:min-h-[70vh] flex items-center justify-center overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1598965402089-274123a4b648?q=80&w=1920&auto=format&fit=crop" 
+              src="https://github.com/ebisuhoumon-collab/ebisuhoumon-collab-ebisu-website/blob/main/koutujiko.jpg.jpg?raw=true" 
               alt="佐世保市の交通事故・むち打ち治療" 
               className="absolute inset-0 w-full h-full object-cover grayscale brightness-50 scale-105"
             />
